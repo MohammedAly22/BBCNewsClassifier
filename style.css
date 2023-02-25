@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Cairo', sans-serif !important;
+}
+
+/* title */
+.e16nr0p30 {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+/* form button */
+.edgvbvh5 {
+    width: 100%;
+    height: 40px;
+    background-color: #5d1eda;
+    color: #fff;
+    transition: 0.4s;
+    border: none;
+}
+
+.edgvbvh5:hover {
+    background-color: #5619d0;
+    color: #fff;
+    border: none;
+}
+
+.edgvbvh5:focus {
+    color: #fff !important;
+    box-shadow: none;
+    border: none;
+}
+
+
+.row_heading {
+    font-size: 14px;
+}
+
+footer {
+    display: none !important;
+}
+
+
+.step-up.css-15jfpy5.e1jwn65y1,
+.step-down.css-15jfpy5.e1jwn65y1 {
+    transition: 0.4s;
+}
+
+.step-up.css-15jfpy5.e1jwn65y1:hover,
+.step-down.css-15jfpy5.e1jwn65y1:hover {
+    background-color: #21c354;
+}
+
+.step-up.css-15jfpy5.e1jwn65y1:focus,
+.step-down.css-15jfpy5.e1jwn65y1:focus {
+    background-color: #21c354;
+}
+
+.css-8ojfln.e1wqxbhn1 {
+    float: right;
+}
+
+.st-av,
+.st-av:hover,
+.st-av:focus {
+    outline: none !important;
+    border: none !important;
+}
