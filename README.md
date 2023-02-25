@@ -7,6 +7,7 @@ an NLP application used for classify news articles to one of the following genre
 - deployment.py for web application deployment.
 
 ### Used packages:
+<hr />
 - re
 - tqdm
 - numpy
