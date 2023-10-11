@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Cairo', sans-serif !important;
+}
+
+/* title */
+.e16nr0p30 {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+/* buttons */
+.edgvbvh5 {
+    width: 100% !important;
+    height: 40px;
+    background-color: #88b3f8;
+    color: #fff;
+    transition: 0.4s;
+    border: none;
+}
+
+.edgvbvh5:hover {
+    background-color: #6998e5;
+    color: #fff;
+    border: none;
+}
+
+.edgvbvh5:focus {
+    color: #fff !important;
+    box-shadow: none;
+    border: none;
+}
+
+/* inputs styling */
+.st-bf {
+    transition: 0.4s;
+    border: none !important;
+}
+
+/* models selectors */
+.st-eh {
+    background-color: rgb(255 199 127);
+}
+
+/* spinner */
+.css-1y04v0k.e17lx80j1,
+.css-p6380s.e17lx80j1 {
+    margin: 0px;
+    border-color: #34e27f #b3b3b333 #cacaca33 !important;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+/* footer */
+footer {
+    display: none !important;
+}
