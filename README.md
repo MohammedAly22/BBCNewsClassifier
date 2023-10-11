@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/MohammedAly22/TextClassifier
+git clone https://github.com/MohammedAly22/BBCNewsClassifier
 ```
 
 2. Run the application:
@@ -41,6 +41,6 @@ streamlit run src/app.py
 Once the application is running, you can access it through your web browser. Enter the text of a BBC news article, and the application will classify it into one of the genres: sports, politics, entertainment, business, or technology.
 
 # Demo
-https://github.com/MohammedAly22/TextClassifier/assets/90681796/ba747708-25bd-40af-8df8-da5d019ba18d
+https://github.com/MohammedAly22/BBCNewsClassifier/assets/90681796/ba747708-25bd-40af-8df8-da5d019ba18d
 
 
