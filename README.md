@@ -30,15 +30,12 @@ To run this project locally, follow these steps:
 git clone https://github.com/MohammedAly22/TextClassifier
 ```
 
-2. Install the required dependencies:
+2. Run the application:
 ```
-pip install -r requirements.txt
+streamlit run src/app.py
 ```
 
-3. Run the application:
-```
-streamlit run app.py
-```
+**Note**: Make sure that you have installed all the packages required for this project.
 
 # Usage
 Once the application is running, you can access it through your web browser. Enter the text of a BBC news article, and the application will classify it into one of the genres: sports, politics, entertainment, business, or technology.
