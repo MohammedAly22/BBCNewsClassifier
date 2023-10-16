@@ -24,18 +24,40 @@ In this project, we aim to classify BBC news articles into different genres usin
 
 # Installation
 To run this project locally, follow these steps:
+1. Install `virtualenv` (if not installed):
+```
+pip install virtualenv
+```
 
-1. Clone the repository:
+2. Create a new virtual environment with your preferred name, here I called it `bbc-news-classification-venv`:
+```
+virtualenv bbc-news-classification-venv
+```
+
+3. Activate the created virtual environment using this command for Windows users:
+```
+bbc-news-classification-venv\Scripts\activate
+```
+
+4. Clone the repository in the same directory that your created virtual environment inside:
 ```
 git clone https://github.com/MohammedAly22/BBCNewsClassifier
 ```
 
-2. Run the application:
+5. install the project requirements:
+```
+pip install -r requirements.txt
+```
+
+6. Run the application:
 ```
 streamlit run src/app.py
 ```
 
-**Note**: Make sure that you have installed all the packages required for this project.
+7. Don't forget to deactivate the virtual environment after that:
+```
+deactivate
+```
 
 # Usage
 Once the application is running, you can access it through your web browser. Enter the text of a BBC news article, and the application will classify it into one of the genres: sports, politics, entertainment, business, or technology.
