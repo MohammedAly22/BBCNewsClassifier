@@ -57,7 +57,7 @@ rpds-py==0.10.6
 rsa==4.9
 seaborn==0.13.0
 six==1.16.0
-sklearn==0.0.post10
+scikit-learn==0.0.post10
 smmap==5.0.1
 streamlit==1.27.2
 tenacity==8.2.3
